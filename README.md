@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashebul
 - 👀 I’m interested in ... Building Website
-- 🌱 I’m currently learning ...Server Control and Marketing
+- 🌱 I’m currently learning ...Server Control and E-commerce Managment 
 - 💞️ I’m looking to collaborate on ... In the development of e-commerce
 - 📫 How to reach me ... fiverr.com/hashebul or hashebul.hasan989@gmail.com
 <!---
