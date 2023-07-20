@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hashebul
-- 👀 I’m interested in ... Building Website
-- 🌱 I’m currently learning ...Server Control and E-commerce Managment 
-- 💞️ I’m looking to collaborate on ... In the development of e-commerce
+- 👀 I’m interested in ... Building Website, Installing Code-igniter Script, Setup and fixing webmail.
+- 🌱 I’m currently learning ...Server Control and E-commerce management 
+- 💞️ I’m looking to collaborate on ... In the development of e-commerce and admin/it support
 - 📫 How to reach me ... fiverr.com/hashebul or hashebul.hasan989@gmail.com
 <!---
 hashebul/hashebul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
